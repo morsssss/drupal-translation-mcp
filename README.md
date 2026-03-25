@@ -1,6 +1,8 @@
-# Drupal MCP
+# Drupal Translator MCP 
 
 Small MCP server for reading and updating Drupal article content through JSON:API. I made this for a talk at **DrupalCon Chicago 2026**, as a proof-of-concept to see if a translator could translate articles by using their favorite AI client, instead of generating machine translations and typing them directly into Drupal.
+
+This is just an initial proof of concept. Feel free to grab this and build on it!
 
 ## What it does
 
